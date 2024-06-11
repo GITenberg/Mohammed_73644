@@ -1,0 +1,36 @@
+_repo: Mohammed_73644
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dibble, Roy F. (Roy Floyd)
+    aliases:
+    - Dibble, R. F. (Roy Floyd)
+    - Dibble, Roy Floyd
+    birthdate: 1887
+    deathdate: 1929
+    gutenberg_agent_id: '57161'
+    url: http://www.gutenberg.org/2009/agents/57161
+description: ''
+gutenberg_issued: '2024-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73644'
+  lccn: '26017132'
+language: en
+pgterms:marc904: https://archive.org/details/mohammed0000dibb
+pgterms:marc905: 20230420174809dibble
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Neil Mercer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Viking Press, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muhammad, Prophet, -632'
+- !lcc 'BP'
+- GITenberg
+title: Mohammed
+url: http://www.gutenberg.org/ebooks/73644
